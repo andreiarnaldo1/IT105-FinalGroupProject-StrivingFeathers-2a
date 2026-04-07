@@ -25,8 +25,8 @@ The EduTrack Student Management System is a centralized database solution used t
 ## Group Members & Roles
 	•	Project Manager - Andrei Arnaldo
 	•	Database Architect - Keira Latasha Creollo
-	•	Backend Developer - Arjiannah Carmelle Borleo
-	•	SQL Developer - Gabrielle Sapico & John Euben Lopez
+	•	Backend Developer - Gabrielle Sapico & John Euben Lopez
+	•	SQL Developer - Arjiannah Carmelle Borleo
 	•	Frontend Developer - Enoch Andrew Querol
 	•   Q&A Performance Analyst - Alexis Consuelo
 	
