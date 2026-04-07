@@ -1,0 +1,201 @@
+course_id,course_code,course_title,credits,dept_id
+1,CS101,User-friendly tertiary artificial intelligence,5,6
+2,CS102,Multi-channeled system-worthy leverage,1,4
+3,CS103,Front-line attitude-oriented Internet solution,2,2
+4,CS104,Managed encompassing initiative,1,7
+5,CS105,Persevering secondary standardization,4,10
+6,CS106,Multi-channeled local info-mediaries,2,7
+7,CS107,Intuitive client-server framework,3,6
+8,CS108,User-centric fresh-thinking protocol,2,9
+9,CS109,Ergonomic directional circuit,3,2
+10,CS110,Expanded solution-oriented orchestration,1,7
+11,CS111,Optimized zero tolerance conglomeration,3,4
+12,CS112,Front-line client-server infrastructure,4,5
+13,CS113,Open-architected hybrid model,4,3
+14,CS114,Realigned client-driven project,2,6
+15,CS115,Customer-focused 6thgeneration hierarchy,2,3
+16,CS116,Digitized local policy,2,4
+17,CS117,Proactive web-enabled matrices,1,2
+18,CS118,Customizable real-time process improvement,2,1
+19,CS119,Devolved object-oriented framework,2,10
+20,CS120,Pre-emptive mission-critical function,3,9
+21,CS121,Open-architected human-resource orchestration,2,5
+22,CS122,Business-focused intermediate initiative,3,8
+23,CS123,Total bi-directional leverage,4,9
+24,CS124,Profit-focused radical encryption,5,7
+25,CS125,Inverse 24hour benchmark,2,10
+26,CS126,Configurable multimedia conglomeration,4,5
+27,CS127,Fully-configurable well-modulated access,1,4
+28,CS128,Customizable interactive approach,3,1
+29,CS129,Progressive object-oriented workforce,1,10
+30,CS130,User-centric hybrid utilization,4,7
+31,CS131,Automated full-range pricing structure,5,10
+32,CS132,Vision-oriented background knowledge user,4,1
+33,CS133,Phased background structure,1,5
+34,CS134,Quality-focused dynamic info-mediaries,1,1
+35,CS135,Versatile national protocol,1,9
+36,CS136,Operative impactful standardization,5,8
+37,CS137,Compatible logistical superstructure,4,3
+38,CS138,Inverse homogeneous data-warehouse,3,6
+39,CS139,Configurable disintermediate ability,2,3
+40,CS140,Sharable neutral initiative,5,8
+41,CS141,Customer-focused national collaboration,4,2
+42,CS142,Innovative intermediate info-mediaries,2,3
+43,CS143,Re-contextualized optimal success,4,7
+44,CS144,Programmable clear-thinking capacity,4,2
+45,CS145,Business-focused dedicated core,1,3
+46,CS146,Robust composite moderator,3,1
+47,CS147,Assimilated asymmetric installation,2,10
+48,CS148,Multi-tiered interactive conglomeration,3,5
+49,CS149,Front-line 4thgeneration data-warehouse,5,5
+50,CS150,Distributed full-range portal,1,6
+51,CS151,Upgradable 6thgeneration contingency,4,1
+52,CS152,Centralized regional contingency,1,1
+53,CS153,Customizable next generation access,1,2
+54,CS154,Versatile multimedia leverage,4,8
+55,CS155,Universal regional challenge,4,4
+56,CS156,Programmable incremental hardware,2,7
+57,CS157,Object-based contextually-based synergy,2,2
+58,CS158,Right-sized optimizing parallelism,2,5
+59,CS159,Synchronized explicit pricing structure,3,9
+60,CS160,Cloned 5thgeneration initiative,3,9
+61,CS161,Customizable multi-tasking success,1,9
+62,CS162,Extended mission-critical secured line,1,4
+63,CS163,Cross-platform content-based focus group,3,8
+64,CS164,Cross-group global flexibility,4,9
+65,CS165,Sharable maximized project,4,3
+66,CS166,Organized 6thgeneration emulation,4,3
+67,CS167,Realigned dedicated process improvement,3,5
+68,CS168,Multi-layered incremental circuit,4,2
+69,CS169,Cloned fresh-thinking synergy,3,3
+70,CS170,Future-proofed well-modulated database,1,1
+71,CS171,Multi-tiered 5thgeneration secured line,4,8
+72,CS172,Re-contextualized encompassing info-mediaries,3,9
+73,CS173,Open-architected impactful definition,4,1
+74,CS174,Reduced heuristic success,5,7
+75,CS175,Pre-emptive background solution,2,6
+76,CS176,Multi-channeled background firmware,3,6
+77,CS177,Seamless stable migration,5,3
+78,CS178,Synchronized foreground instruction set,5,8
+79,CS179,Down-sized even-keeled application,4,2
+80,CS180,Programmable next generation analyzer,4,2
+81,CS181,Open-architected needs-based Graphic Interface,2,8
+82,CS182,Digitized regional architecture,5,4
+83,CS183,Object-based responsive project,3,8
+84,CS184,Up-sized tertiary firmware,5,3
+85,CS185,Quality-focused 24/7 artificial intelligence,3,1
+86,CS186,Phased directional collaboration,2,2
+87,CS187,Robust holistic projection,4,9
+88,CS188,Synergistic eco-centric installation,5,3
+89,CS189,Synchronized grid-enabled Graphical User Interface,2,10
+90,CS190,Monitored 24/7 alliance,4,7
+91,CS191,Proactive bi-directional knowledgebase,5,2
+92,CS192,Automated coherent middleware,3,3
+93,CS193,Focused eco-centric knowledge user,3,3
+94,CS194,Reverse-engineered non-volatile hub,3,2
+95,CS195,Sharable grid-enabled emulation,5,1
+96,CS196,Organized eco-centric encryption,4,7
+97,CS197,Expanded incremental initiative,1,2
+98,CS198,Triple-buffered well-modulated data-warehouse,3,4
+99,CS199,Phased even-keeled workforce,4,10
+100,CS200,Down-sized zero tolerance utilization,2,1
+101,CS201,Cross-platform attitude-oriented core,5,3
+102,CS202,Synergistic 4thgeneration neural-net,4,2
+103,CS203,Phased leadingedge customer loyalty,4,6
+104,CS204,Organized fresh-thinking orchestration,5,10
+105,CS205,Robust foreground extranet,5,6
+106,CS206,Self-enabling impactful hardware,1,7
+107,CS207,Customer-focused reciprocal moderator,1,9
+108,CS208,Triple-buffered reciprocal migration,1,3
+109,CS209,Implemented attitude-oriented monitoring,3,10
+110,CS210,Expanded contextually-based benchmark,5,8
+111,CS211,Compatible tangible Graphic Interface,5,1
+112,CS212,Fundamental 3rdgeneration customer loyalty,5,10
+113,CS213,Innovative context-sensitive instruction set,1,8
+114,CS214,Configurable local Graphical User Interface,3,5
+115,CS215,Secured encompassing support,3,2
+116,CS216,Profound encompassing neural-net,5,9
+117,CS217,Universal didactic Internet solution,4,10
+118,CS218,Optimized human-resource support,3,1
+119,CS219,Digitized impactful capability,3,3
+120,CS220,Networked radical intranet,3,10
+121,CS221,Stand-alone object-oriented core,4,9
+122,CS222,Visionary directional neural-net,4,10
+123,CS223,De-engineered dynamic complexity,1,8
+124,CS224,Optimized contextually-based frame,2,6
+125,CS225,Grass-roots bandwidth-monitored middleware,4,10
+126,CS226,Implemented context-sensitive workforce,2,1
+127,CS227,Ameliorated directional website,2,1
+128,CS228,User-friendly homogeneous installation,4,7
+129,CS229,Robust optimizing complexity,2,5
+130,CS230,Upgradable mission-critical middleware,5,8
+131,CS231,Reduced methodical collaboration,4,6
+132,CS232,Extended composite leverage,2,4
+133,CS233,Future-proofed incremental firmware,5,3
+134,CS234,Re-contextualized stable throughput,2,8
+135,CS235,Persevering local help-desk,5,3
+136,CS236,Persevering homogeneous installation,1,10
+137,CS237,Profit-focused attitude-oriented paradigm,2,6
+138,CS238,Re-contextualized attitude-oriented open architecture,4,2
+139,CS239,Operative even-keeled interface,1,10
+140,CS240,Focused bottom-line monitoring,5,5
+141,CS241,Realigned scalable neural-net,1,3
+142,CS242,Fully-configurable actuating archive,3,10
+143,CS243,Reduced clear-thinking attitude,2,7
+144,CS244,Ergonomic optimizing task-force,3,1
+145,CS245,Synergized background model,4,7
+146,CS246,Distributed regional website,3,6
+147,CS247,Right-sized 5thgeneration contingency,2,6
+148,CS248,Function-based encompassing conglomeration,2,1
+149,CS249,Front-line 6thgeneration core,1,5
+150,CS250,Extended multimedia moderator,3,1
+151,CS251,Devolved maximized focus group,4,2
+152,CS252,Customer-focused background project,3,8
+153,CS253,Re-contextualized leadingedge budgetary management,3,1
+154,CS254,Implemented demand-driven open system,4,7
+155,CS255,Implemented cohesive migration,5,8
+156,CS256,Public-key analyzing solution,1,8
+157,CS257,Customizable tangible software,1,8
+158,CS258,Virtual human-resource structure,3,10
+159,CS259,Polarized contextually-based leverage,2,5
+160,CS260,Synergized directional Graphical User Interface,4,6
+161,CS261,Automated bifurcated ability,5,1
+162,CS262,Progressive actuating website,2,1
+163,CS263,Synchronized composite instruction set,5,1
+164,CS264,Organized object-oriented array,1,10
+165,CS265,Pre-emptive fresh-thinking toolset,2,2
+166,CS266,Open-architected zero administration conglomeration,4,5
+167,CS267,Assimilated maximized protocol,5,6
+168,CS268,Programmable holistic process improvement,5,1
+169,CS269,Virtual modular complexity,1,9
+170,CS270,Horizontal zero tolerance intranet,4,10
+171,CS271,Progressive reciprocal matrix,5,3
+172,CS272,Programmable clear-thinking toolset,2,10
+173,CS273,Upgradable mission-critical pricing structure,5,2
+174,CS274,Reactive interactive moderator,3,3
+175,CS275,Intuitive zero administration protocol,5,4
+176,CS276,Sharable intermediate knowledgebase,2,9
+177,CS277,Quality-focused 24/7 success,4,4
+178,CS278,Fully-configurable real-time capacity,1,3
+179,CS279,Centralized 24/7 open architecture,3,2
+180,CS280,Function-based didactic archive,4,6
+181,CS281,Optimized solution-oriented flexibility,4,1
+182,CS282,Enhanced national artificial intelligence,5,2
+183,CS283,Proactive hybrid framework,1,6
+184,CS284,Down-sized context-sensitive contingency,4,6
+185,CS285,Virtual didactic complexity,4,1
+186,CS286,Programmable 3rdgeneration approach,3,5
+187,CS287,Virtual encompassing time-frame,4,5
+188,CS288,Enterprise-wide even-keeled success,4,9
+189,CS289,Public-key well-modulated toolset,5,1
+190,CS290,Realigned zero administration instruction set,3,5
+191,CS291,Focused 5thgeneration parallelism,4,8
+192,CS292,De-engineered radical standardization,1,6
+193,CS293,Front-line mission-critical interface,5,9
+194,CS294,Front-line neutral open architecture,4,2
+195,CS295,Diverse asynchronous utilization,3,2
+196,CS296,Multi-lateral human-resource Graphic Interface,3,1
+197,CS297,De-engineered optimal implementation,2,2
+198,CS298,Re-engineered 24/7 paradigm,3,7
+199,CS299,Adaptive object-oriented conglomeration,3,5
+200,CS300,Multi-lateral multi-tasking synergy,5,4
