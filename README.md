@@ -1,32 +1,31 @@
-## System Description
+# EduTrack Student Management System
+**Course:** IT 105 – Information Management I | **Section:** 2A
+**Team:** StrivingFeathers
 
-The EduTrack Student Management System is a centralized database solution used to store and manage academic records. It helps schools track students, subjects, and grades easily and efficiently. By saving all information in one secure database, it eliminates manual paperwork and ensures data is always accurate and easy to find.
+## Project Overview
+EduTrack is a high-performance, cloud-integrated database system designed to manage academic records. It is built to handle over 100,000 records, providing school administrators with advanced Business Intelligence (BI) insights and optimized query speeds.
 
-## Key Functionalities
-	•	Add, Edit, Delete Student Info: Manage personal details like names, birthdays, and contact information.
-    •   Enroll Students in Subjects: Link students to specific courses and instructors.
-    •   Record Grades: Input and update academic marks for every subject.
-    •   View Student Details: Instantly access a student's full academic history.
-    •   Search Student Records: Quickly find students using filters like ID number or name.
+## Group Members and Roles
+* **Andrei Arnaldo** – Project Manager
+* **Arjiannah Carmelle Borleo** – SQL Developer
+* **Alexis Consuelo** – Q&A Tester
+* **Gabrielle Sapico** – Documentation Lead
+* **John Euben Lopez** – Security Officer
+* **Enoch Andrew Querol** – Frontend 
 
-## Stakeholders
-	•	Students: The primary subjects whose records and grades are tracked.
-    •   Teachers: Users who input grades and monitor student performance in their subjects.
-    •   Registrar: The office in charge of managing official student enrollment and permanent records.
-    •   School Admin: Oversees the entire system, managing user access and overall school data.
+## Key Features
+* **Scalable Data:** 100,000+ records generated and managed via Python and MySQL.
+* **BI Analytics:** Advanced GPA tracking, enrollment trends, and workload analysis.
+* **Performance Tuning:** B-Tree indexing reducing query scan times by 99%.
+* **Cloud Integration:** Fully hosted on Aiven Cloud with SSL security.
+* **Disaster Recovery:** Automated backup and restoration strategies.
 
-## Core Data Processes
-	•	Input Student Data: Collecting and entering new student details into the system.
-    •   Save to Database: Securely storing information in organized tables (Normalization).
-    •   Update Records: Modifying existing data when a student moves to a new level or changes subjects.
-    •   Retrieve/Search Info: Pulling specific data from the database for viewing or editing.
-    •   Generate Reports: Creating summaries of grades, class lists, or enrollment statistics.
+## Installation and Restoration
+1. Create a database named `edutrack_db` in MySQL Workbench.
+2. Navigate to **Server > Data Import**.
+3. Choose the `backups/edutrack_backup.sql` file.
+4. Click **Start Import**.
+5. All system tables and 100k records will be restored automatically.
 
-## Group Members & Roles
-	•	Project Manager - Andrei Arnaldo
-	•	Database Administrator - Enoch Andrew Querol
-	•	SQL Developer - Arjiannah Carmelle Borleo
-	•	QA/Tester - Alexis Consuelo/Keira Latasha Creollo
-	•	Documentation Lead - Gabrielle Sapico
-	•   Security Officer - John Euben Lopez
-	
+## Notes
+All technical proofs, including cloud deployment screenshots and optimization benchmarks, are located in the `/screenshots` folder.
