@@ -8,7 +8,8 @@ EduTrack is a high-performance, cloud-integrated database system designed to man
 ## Group Members and Roles
 * **Andrei Arnaldo** – Project Manager
 * **Arjiannah Carmelle Borleo** – SQL Developer
-* **Alexis Consuelo** – Q&A Tester
+* **Alexis Consuelo** – QA/Tester
+* **Keira Latasha Creollo** – QA/Tester
 * **Gabrielle Sapico** – Documentation Lead
 * **John Euben Lopez** – Security Officer
 * **Enoch Andrew Querol** – Frontend 
