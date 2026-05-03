@@ -1,5 +1,5 @@
 # EduTrack Student Management System
-**Course:** IT 105 – Information Management I | **Section:** 2A
+**Subject:** IT 105 – Information Management I | **Course & Section:** BSIS 2-A
 **Team:** StrivingFeathers
 
 ## Project Overview
