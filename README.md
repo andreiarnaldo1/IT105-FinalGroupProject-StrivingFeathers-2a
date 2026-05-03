@@ -1,6 +1,7 @@
 # EduTrack Student Management System
-**Subject:** IT 105 – Information Management I | **Course & Section:** BSIS 2-A
-**Team:** StrivingFeathers
+**Subject:** IT 105 – Information Management I  
+**Course & Section:** BSIS 2-A  
+**Team Name:** StrivingFeathers
 
 ## Project Overview
 EduTrack is a high-performance, cloud-integrated database system designed to manage academic records. It is built to handle over 100,000 records, providing school administrators with advanced Business Intelligence (BI) insights and optimized query speeds.
