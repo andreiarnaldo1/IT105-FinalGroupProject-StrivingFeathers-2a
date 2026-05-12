@@ -1,7 +1,7 @@
 -- ========================================================
 -- PROJECT: EduTrack Student Management System
 -- TEAM: StrivingFeathers (BSIS 2-A)
--- SCRIPT: Master Database Schema (Final Defense Version)
+-- SCRIPT: Master Database Schema (Final Version)
 -- DEVELOPER: Arjiannah Carmelle Borleo (SQL Developer)
 -- ========================================================
 
