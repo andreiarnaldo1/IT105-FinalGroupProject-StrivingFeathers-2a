@@ -1,4 +1,0 @@
-- Integrated all database entities (Instructors, Courses, Departments, Enrollments) into the PHP interface.
-- Implemented server-side pagination to efficiently handle the 100,000+ record dataset.
-- Refactored queries to use multi-table JOINs, demonstrating relational integrity across the schema.
-- Fixed runtime errors in the grade update logic and optimized search performance.
